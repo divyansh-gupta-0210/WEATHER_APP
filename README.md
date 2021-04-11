@@ -1,16 +1,17 @@
 # WEATHER APP
 
-A new Flutter application.
+An app that says the weather in celcius around the user's location and can guide him about it as well, along with the weather of the city he is willing to know.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Dependencies
 
-A few resources to get you started if this is your first Flutter project:
+- Geolocator
+- Flutter Spinkit
+- Http
+- API's
+- Google Maps
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Future additions
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Loactions
+- Preditions of the weather for the next few days
