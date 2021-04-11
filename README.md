@@ -1,4 +1,4 @@
-# clima
+# WEATHER APP
 
 A new Flutter application.
 
